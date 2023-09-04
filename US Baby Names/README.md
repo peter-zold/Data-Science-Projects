@@ -4,6 +4,10 @@
 In my teaching work over the past few years, I have observed how quickly naming trends evolve.
 So I thought I'd look at a database of names to find out the pace of change and the reasons for it.
 
+If the Jupyter Nootbook file doesn't render on GitHub, please visit this link for viewing:
+
+https://nbviewer.org/github/peter-zold/Data-Analytics-Projects/blob/main/US%20Baby%20Names/Baby%20Names%20Analysis.ipynb
+
 ## Dataset
 ### Source: 
 https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-state-and-district-of-columbia-data

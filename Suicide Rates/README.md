@@ -3,7 +3,7 @@
 https://github.com/peter-zold/Data-Analytics-Projects/assets/116908950/ddce44af-cdd0-4ec9-8f86-2c5928be514d
 
 ## Introduction
-I have always been interested in how to prevent tragedies and find out why they happen. As the first project of an upcoming series I decided to do an exploratory analysis on a database of suicide counts. 
+I have always been interested in how to prevent tragedies and find out why they happen. As the first project of an upcoming series I decided to do an exploratory analysis on a database of suicide counts. I set up separate statistics for worldwide data, and for continents and countries. Also I have visualised the main factors influencing the number of suicides
 
 ## Dataset
 ### Source: 

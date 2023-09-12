@@ -1,7 +1,7 @@
 # Brief descriptions of the projects
 
 ## HR Management Application
-HR Management Application is a softwere used for management and analysis for a fictitious company database. In addition to CRUD operations (Create, Read, Update, Delete), the application is capable of statistical evaluation of data and prediction based on a machine learning model.
+HR Management Application is a softwere used for management and analysis for a fictitious company database. In addition to CRUD operations (Create, Read, Update, Delete), the application is capable of statistical evaluation of data and make predictions based on a machine learning model.
 
 I used Python (with numpy, pandas, scikit-learn, xgboost and so on) and SQL (sqlite3 and sqlean extension) to create this project.
 

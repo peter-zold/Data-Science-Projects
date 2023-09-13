@@ -2,7 +2,7 @@
 
 ## Introduction
 In my teaching work over the past few years, I have observed how quickly naming trends evolve.
-So I thought I'd look at a database of names to find out the pace of change and the reasons for it.
+So I thought I'd look at a database of names to find out what are the specificities of naming trends, how and why did the changes happen possibly uncover the reasons behind it. I focused on more popular names, be they annual hits or evergreen ones.
 
 If the Jupyter Nootbook file doesn't render on GitHub, please visit this link for viewing:
 

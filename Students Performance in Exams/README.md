@@ -5,7 +5,7 @@ https://github.com/peter-zold/Data-Analytics-Projects/assets/116908950/421535f6-
 
 
 ## Introduction
-I stumbled across the Students Performance in Exams dataset by chance and instantly fell in love with it! It is a practice dataset with data of students socioeconomic status, preparation and exam results. I made a report with summarization of the student's overall performance and some aspects of their individual performance.
+I stumbled across the Students Performance in Exams dataset by chance and instantly fell in love with it! It is a practice dataset with records of students socioeconomic status, preparation and exam results. I made a report with summarization of the student's overall performance and some aspects of their individual performance.
 
 ## Dataset
 ### Source: 

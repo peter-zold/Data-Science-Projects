@@ -1,6 +1,12 @@
 # Introduction
 I have created an HR Management Application for a fictitious company database. In addition to CRUD operations (Create, Read, Update, Delete), the application is capable of statistical evaluation of data and prediction based on a machine learning model.
 
+
+
+https://github.com/peter-zold/Data-Analytics-Projects/assets/116908950/719674fc-a3d1-482e-8c42-bd903292e3f1
+
+
+
 # Detailed description of features
 ## Initialize database
 Strictly speaking, it is not part of the application itself, as the latter works with an existing database. This module creates an SQL database (sqlite3) from a csv file. The constraints on the columns of the table containing the data are adapted to the needs of the company.

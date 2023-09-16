@@ -39,6 +39,7 @@ class HrManagementApp:
                 case "6":
                     self.predict.prediction_execute()
                 case "0":
+                    self.connection.close()
                     print("Bye!")
                     exit()
                 case _:

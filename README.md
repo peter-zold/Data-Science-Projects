@@ -11,6 +11,11 @@ I analyzed a dataset consisting customers' social and economic circumstances and
 
 I used <b>Python</b> (with numpy, pandas, scipy, scikit-learn, matplotlib, seaborn and so on) to create this project.
 
+## Breast Cancer Classification
+I made a prediction as to whether a tumour in the breast is benign or malignant, based on the available data. For that cause after a brief data processing and feature engineering, I built a neural network with tensorflow.
+
+I used <b>Python</b> (with numpy, pandas, scikit-learn, tensorflow, matplotlib) to create this project.
+
 ## Students Performance In Exams
 I conducted analysis on a dataset with records of students socioeconomic status, preparation and exam results. I made a report with summarization of the student's overall performance with the possibility to filter on various attributes. I also an analysis on some aspects of their individual performance featuring key influencers of scoring high or low on an exam.
 

@@ -14,3 +14,6 @@ Python with numpy, pandas, scikit-learn, tensorflow, matplotlib
 - Processed data, conducted EDA, labelled categorical values
 - Built a neural network model with an input, a hidden and an output layer
 - Evaluated the model
+
+## Credits
+I thank Shiddhardan for his original work on this dataset

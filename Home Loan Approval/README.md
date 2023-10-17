@@ -13,7 +13,7 @@ This public dataset consists of two CSV file, from them I'll use the train datas
 It holds records of customers' social and economic circumstances and their approval status for loan.
 
 ## Technologies used:
-Python with numpy, pandas, scikit-learn, matplotlib, seaborn and plotpy libraries used in Jupyter Notebook.
+Python with numpy, pandas, scikit-learn, scipy, matplotlib, seaborn and plotpy libraries used in Jupyter Notebook.
 
 ## Tasks carried out:
 - Explored and cleaned data (handled duplicates, outliers and missing values, extracted the valuable information of the columns)
